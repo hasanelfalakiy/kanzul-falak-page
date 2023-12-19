@@ -52,17 +52,13 @@ An application that collects several methods of calculating falak (astronomy) fo
 ## Technology used
 
 - 100% Kotlin language
-- MVVM madzhab
+- MVVM pattern
 - ViewModel
 - LiveData
 - Kotlin coroutines
 - SharedPreferences
 - Preferences DataStore
 - Combine XML with Jetpack Compose
-
-## Want to contribute?
-
-> If you want to contribute, please fork this repository, make changes, send a Pull request to this repository
 
 ## Contact us
 
