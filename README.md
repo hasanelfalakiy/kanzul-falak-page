@@ -7,6 +7,15 @@
 <b>An application that collects several methods of calculating falak (astronomy) for the purposes of Muslim worship with material design 3.</b>
 <p><br>
 
+<p align="center">
+<!-- Latest release -->
+<img src="https://img.shields.io/github/v/release/andihasan97/kanzul-falak-page?include_releases&label=latest%20release&style=for-the-badge&color=brightgreen" alt="latest_release"/>
+<!-- Build with Kotlin -->
+<img src="https://img.shields.io/badge/Kotlin-C116E3?&style=for-the-badge&logo=kotlin&logoColor=white" alt="build_with_kotlin">
+<!-- License -->
+<img src="https://img.shields.io/github/license/andihasan97/kanzul-falak-page?color=blue&style=for-the-badge&color=brightgreen" alt="License">
+</p>
+
 ## About Kanzul Falak
 
 An application that collects several methods of calculating falak (astronomy) for the purposes of Muslim worship with material design 3.
@@ -39,6 +48,17 @@ An application that collects several methods of calculating falak (astronomy) fo
 - [x] Moon phases
 - [ ] Solar eclipse
 - [ ] Lunar eclipse
+
+## Technology used
+
+- 100% Kotlin language
+- MVVM madzhab
+- ViewModel
+- LiveData
+- Kotlin coroutines
+- SharedPreferences
+- Preferences DataStore
+- Combine XML with Jetpack Compose
 
 ## Want to contribute?
 
