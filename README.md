@@ -39,7 +39,7 @@ An application that collects several methods of calculating falak (astronomy) fo
 ## Feature
 
 - [x] Calculate the beginning of prayer times
-- [ ] Calculate the beginning of the hijri month
+- [x] Calculate the beginning of the hijri month
 - [x] Tahwil tarikh (Gregorian-Hijriyah date conversion)
 - [x] Tahwil julian day (Convert Julian day to AD/Hijriyah)
 - [x] Hilal visibility graph
