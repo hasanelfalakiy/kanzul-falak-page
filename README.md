@@ -9,11 +9,11 @@
 
 <p align="center">
 <!-- Latest release -->
-<img src="https://img.shields.io/github/v/release/andihasan97/kanzul-falak-page?include_releases&label=latest%20release&style=for-the-badge&color=brightgreen" alt="latest_release"/>
+<img src="https://img.shields.io/github/v/release/hasanelfalakiy/kanzul-falak-page?include_releases&label=latest%20release&style=for-the-badge&color=brightgreen" alt="latest_release"/>
 <!-- Build with Kotlin -->
 <img src="https://img.shields.io/badge/Kotlin-C116E3?&style=for-the-badge&logo=kotlin&logoColor=white" alt="build_with_kotlin">
 <!-- License -->
-<img src="https://img.shields.io/github/license/andihasan97/kanzul-falak-page?color=blue&style=for-the-badge&color=brightgreen" alt="License">
+<img src="https://img.shields.io/github/license/hasanelfalakiy/kanzul-falak-page?color=blue&style=for-the-badge&color=brightgreen" alt="License">
 </p>
 
 ## About Kanzul Falak
@@ -46,13 +46,14 @@ An application that collects several methods of calculating falak (astronomy) fo
 - [x] Commemoration of the dead (Selamatan meninggal)
 - [x] Missed prayers (Qodho sholat)
 - [x] Moon phases
-- [ ] Solar eclipse
-- [ ] Lunar eclipse
+- [x] Solar eclipse
+- [x] Lunar eclipse
 
 ## Technology used
 
 - 100% Kotlin language
 - MVVM pattern
+- ViewBinding
 - ViewModel
 - LiveData
 - Kotlin coroutines
@@ -63,6 +64,7 @@ An application that collects several methods of calculating falak (astronomy) fo
 ## Contact us
 
 - [Telegram](https://t.me/moonelfalakiy)
+- [Grup diskusi Telegram](https://t.me/moonlight_studio01/9)
 
 ## License
 
