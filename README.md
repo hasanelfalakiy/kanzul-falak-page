@@ -33,6 +33,10 @@ An application that collects several methods of calculating falak (astronomy) fo
 <img width="125" height="250" src="./src/chart_atas_light4.jpg" alt="Screenshot_08" title="Screenshot_08">
 <img width="125" height="250" src="./src/chart_atas_dark4.jpg" alt="Screenshot_09" title="Screenshot_09">
 <img width="125" height="250" src="./src/chart_bawah_dark4.jpg" alt="Screenshot_10" title="Screenshot_10">
+<img width="125" height="250" src="./src/ephemeris1.jpg" alt="Screenshot_10a" title="Screenshot_10a">
+<img width="125" height="250" src="./src/ephemeris2.jpg" alt="Screenshot_10b" title="Screenshot_10b">
+<img width="125" height="250" src="./src/imsakiyah1.jpg" alt="Screenshot_11a" title="Screenshot_11a">
+<img width="125" height="250" src="./src/imsakiyah2.jpg" alt="Screenshot_11b" title="Screenshot_11b">
 <img width="125" height="250" src="./src/about_dark5.jpg" alt="Screenshot_11" title="Screenshot_11">
 </div>
 
@@ -48,6 +52,8 @@ An application that collects several methods of calculating falak (astronomy) fo
 - [x] Moon phases
 - [x] Solar eclipse
 - [x] Lunar eclipse
+- [x] Ephemeris Table
+- [x] Imsakiyah Schedule
 
 ## Technology used
 
