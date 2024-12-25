@@ -1,16 +1,20 @@
 {
-  "latestVersion": "2.6.0",
+  "latestVersion": "2.7.0",
   "latestVerisonCode": 4,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "Penambahan:",
-    "- Fitur tarik refresh untuk merefresh data lokasi & tampilan halaman depan",
-    "- Fitur cek pembaruan versi dari dalam aplikasi, jika tersedia user akan dibawa ke server GitHub untuk mendownload versi terbaru",
-    "- Fitur mode offline, saat tidak ada internet, aplikasi akan mendapatkan data lokasi dari GPS, namun nama lokasi tidak bisa ditampilkan karena geocoder tetap butuh akses internet",
-    "- Indikator progress linear dihalaman depan saat sedang mencari data lokasi",
-    "- Ephemeris detail (geosentris & toposentris), namun agak lambat membukanya, mungkin karena library tabel yang digunakan",
+    "- Algoritma VSOP87D & ELPMPP02, namun bertahap di beberapa menu",
+    "- Tasbih digital",
+    "- Generate file hasil hitung waktu sholat & imsakiyah",
+    "- Salin data hasil hitung waktu sholat ke clipboard",
+    "- Keterangan tambahan di menu tips",
     "- Support bahasa Inggris, namun sebagian kecil string yang dihardcode baik di viewmodel/library belum diganti",
+    "Perubahan:",
+    "- Mengganti Algoritma Jean Meeus di halaman depan dengan VSOP87D",
+    "- Mengganti Toast dengan Flashbar kecuali halaman depan",
     "Perbaikan:",
-    "- Perbaikan beberapa bug kecil dan improvisasi UI"
+    "- Bug kritis fungsi gregorianToJD",
+    "- Perbaikan UI"
   ]
 }
