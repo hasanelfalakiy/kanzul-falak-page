@@ -54,6 +54,8 @@ An application that collects several methods of calculating falak (astronomy) fo
 - [x] Lunar eclipse
 - [x] Ephemeris Table
 - [x] Imsakiyah Schedule
+- [x] Calendar Sync
+- [x] Tasbih
 
 ## Technology used
 
@@ -76,6 +78,6 @@ An application that collects several methods of calculating falak (astronomy) fo
 
 ```
 Kanzul Falak
-Copyright (C) 2023-2024  Andi Hasan Ashari
+Copyright (C) 2023-2025  Andi Hasan Ashari
 GNU General Public License v3.0 but still close source
 ```
