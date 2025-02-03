@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/kanzul-falak-page/src/json/update-changelog.json",
+      "selection": {
+        "end": {
+          "column": 245,
+          "index": 906,
+          "line": 16
+        },
+        "start": {
+          "column": 245,
+          "index": 906,
+          "line": 16
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/kanzul-falak-page/src/json/update-changelog.json"
+}

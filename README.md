@@ -42,6 +42,7 @@ An application that collects several methods of calculating falak (astronomy) fo
 
 ## Feature
 
+- [x] Model JPL DE405 & IAARAS EPM2021 Planetary theory
 - [x] Calculate the beginning of prayer times
 - [x] Calculate the beginning of the hijri month
 - [x] Tahwil tarikh (Gregorian-Hijriyah date conversion)
@@ -59,7 +60,7 @@ An application that collects several methods of calculating falak (astronomy) fo
 
 ## Technology used
 
-- 100% Kotlin language
+- 99% Kotlin 1% Java language
 - MVVM pattern
 - ViewBinding
 - ViewModel

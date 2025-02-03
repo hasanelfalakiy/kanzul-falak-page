@@ -1,28 +1,19 @@
 {
-  "latestVersion": "2.9.0",
-  "latestVerisonCode": 6,
+  "latestVersion": "3.0.0",
+  "latestVerisonCode": 7,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "Penambahan:",
-    " ",
-    "- Algoritma VSOP87D & ELPMPP02 di menu Ephemeris, Ephemeris Detail dan Hilal (Awal bulan hijriyah)",
-    "- Menu Sinkronisasi Kalender (Awal bulan hijriyah dalam satu tahun) dengan algoritma VSOP87D & ELPMPP02",
-    "- Generate file dan copy di menu Hilal",
-    "- Generate file di menu Sync. Kalender",
-    "- Input jam, menit, detik dan time zone di menu Tahwil Tarikh (khusus mencari JD masehi)",
-    "- Input time zone  dan menampilkan jam di menu Tahwil Julian Day",
-    "- Algoritma Astronomical Algorithm di menu Fase Bulan",
+    "- Algoritma/model JPL DE405 & IAARAS EPM2021 di menu Ephemeris, Ephemeris Detail, dan Waktu Sholat (perlu instalasi mandiri, cara instalasi file biner DE405 & EPM2021 ada di menu Tips)",
+    "- Data arah matahari dan hilal di menu Sinkronisasi/penyerasian kalender",
+    "- Dokumentasi & info instalasi file biner JPL DE405 & EPM2021 IAARAS di menu Tips",
     " ",
     "Perubahan:",
-    " ",
-    "- Direktori penyimpanan file txt dari folder files ke dalam folder TXT di direktori non-SAF (Android/data/com.nama.paket.aplikasi/files/TXT)",
-    "- Algoritma Irsyadul Murid di menu Grafik Visibilitas Hilal diganti dengan VSOP87D & ELPMPP02",
-    "- Prediksi awal bulan hijriyah di menu Hilal sekarang menggunakan kriteria IRNU (VSOP87D & ELPMPP02 dan Irsyadul Murid), SK LF-PBNU No. 001/SK/LF-PBNU/III/2022, tinggi hilal mar'i minimal 3° dan elongasi geocentric minimal 6.4°",
-    "- Improvisasi tata letak data dibeberapa file yang dihasilkan",
+    "- Tidak ada",
     " ",
     "Perbaikan:",
-    " ",
-    "- Leak memory (kebocoran memori)",
-    "- Perbaikan UI"
+    "- Selamatan/peringatan orang meninggal",
+    "Info:",
+    "- Total koefisien JPL DE405 sebanyak 7.006.894, namun hanya 3.138.648 untuk menghitung data ephemeris Matahari dan Bulan, yakni: Sun (454.278), Moon (2.147.496), dan EMB/Earth-Moon Barycentric (536.874), untuk IAARAS EPM2021 belum dihitung."
   ]
 }
