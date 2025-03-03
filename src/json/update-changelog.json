@@ -1,18 +1,17 @@
 {
-  "latestVersion": "3.0.0",
-  "latestVerisonCode": 7,
+  "latestVersion": "3.1.1",
+  "latestVerisonCode": 8,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "Penambahan:",
-    "- Algoritma/model JPL DE405 & IAARAS EPM2021 di menu Ephemeris, Ephemeris Detail, dan Waktu Sholat (perlu instalasi mandiri, cara instalasi file biner DE405 & EPM2021 ada di menu Tips)",
-    "- Data arah matahari dan hilal di menu Sinkronisasi/penyerasian kalender",
-    "- Dokumentasi & info instalasi file biner JPL DE405 & EPM2021 IAARAS di menu Tips",
-    " ",
-    "Perubahan:",
-    "- Tidak ada",
+    "- Algoritma/model JPL DE405 & IAARAS EPM2021 di menu Imsakiyah (perlu instalasi mandiri, cara instalasi file biner DE405 & EPM2021 ada di menu Tips)",
+    "- Pengecekan cakupan waktu JPL DE405 & EPM2021 IAARAS agar tidak crash jika input diluar batas cakupan",
+    "- Input ihtiyat zuhur & menampilkan nilai ihtiyat zuhur & lainnya di menu Waktu Sholat",
     " ",
     "Perbaikan:",
-    "- Selamatan/peringatan orang meninggal",
+    "- Earth heliocentric longitude algoritma VSOP87D tidak sengaja termodulus",
+    "- Fungsi gregorianToJD",
+    " ",
     "Info:",
     "- Total koefisien JPL DE405 sebanyak 7.006.894, namun hanya 3.138.648 untuk menghitung data ephemeris Matahari dan Bulan, yakni: Sun (454.278), Moon (2.147.496), dan EMB/Earth-Moon Barycentric (536.874), untuk IAARAS EPM2021 belum dihitung."
   ]
