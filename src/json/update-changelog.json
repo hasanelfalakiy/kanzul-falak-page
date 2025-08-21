@@ -3,18 +3,27 @@
   "latestVerisonCode": 8,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
-    "Perhatian, kami sedang menguji coba fitur deteksi update rilis otomatis, abaikan saja dulu notifikasi ini.",
     "",
     "Penambahan:",
-    "- ",
-    "- ",
-    "- ",
+    "- Data koordinat rectangular Sun barycentric, Earth barycentric, Sun geocentric, & Moon geocentric (x,y,z serta kecepatan/velocity vx, vy, vz satuan km/day) dalam sistem & kerangka acuan langit ICRS/ICRF (Mean J2000)",
+    "- Jam Astronomi (menampilkan data realtime jam lokal & UT, GST/LST, & beberapa data matahari & bulan)",
+    "- Algoritma/model JPL DE405 & IAARAS EPM2021 di menu Hilal (perlu instalasi mandiri, link & cara instalasi file biner DE405 & EPM2021 ada di menu Tips)",
+    "- Tombol custom warna aksen tema (ada 19 tema warna rekomendasi google material desain)",
+    "- Deteksi otomatis cek update rilis di halaman depan",
+    "- Menu pembulatan detik di menu Imsakiyah",
+    "- Ikon fase-fase bulan di menu Fase Bulan",
+    "- Opsi pengaturan ikuti sistem (tema gelap/terang mengikuti sistem perangkat)",
     " ",
     "Perbaikan:",
-    "- ",
-    "- ",
+    "- Modulus data durasi hilal di menu Hilal",
+    "- Beberapa warna text disesuaikan (warna & logo masih dipertahankan ungu) di halaman tentang",
+    "- Beberapa perbaikan kecil"
+    " ",
+    "Perubahan:",
+    "- URL file biner JPL DE405 & EPM2021 kini dapat diklik, user akan langsung dapat mengunduhnya",
     " ",
     "Info:",
-    "- "
+    "- Total koefisien JPL DE405 sebanyak 7.015.038, namun hanya 3.142.296 untuk menghitung data ephemeris Matahari dan Bulan, yakni:\n* Sun (454.806)\n* Moon (2.149.992)\n* dan EMB/Earth-Moon Barycenter (537.498)",
+    "- sedangkan untuk IAARAS EPM2021 Total koefisien sebanyak 4.962.750, namun hanya 2.223.000 koefisien untuk menghitung data ephemeris Matahari & Bulan, yakni:\n* Sun (321.750)\n* Moon (1.521.000)\n* EMB/Earth-Moon Barycenter (380.250)"
   ]
 }

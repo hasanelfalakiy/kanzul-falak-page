@@ -23,20 +23,24 @@ An application that collects several methods of calculating falak (astronomy) fo
 ## Screenshot
 <div align="center">
 
-<img width="125" height="250" src="./src/home_light1.jpg" alt="Screenshot_01" title="Screenshot_01">
-<img width="125" height="250" src="./src/home_dark1.jpg" alt="Screenshot_02" title="Screenshot_02">
-<img width="125" height="250" src="./src/homebottom_light1.jpg" alt="Screenshot_03" title="Screenshot_03">
-<img width="125" height="250" src="./src/homebottom_dark1.jpg" alt="Screenshot_04" title="Screenshot_04">
-<img width="125" height="250" src="./src/settings_light2.jpg" alt="Screenshot_05" title="Screenshot_05">
-<img width="125" height="250" src="./src/settings_dark2.jpg" alt="Screenshot_06" title="Screenshot_06">
-<img width="125" height="250" src="./src/sholat_atasdark3.jpg" alt="Screenshot_07" title="Screenshot_07">
+<img width="125" height="250" src="./src/img_1.jpg" alt="Screenshot_01" title="Screenshot_01">
+<img width="125" height="250" src="./src/img_2.jpg" alt="Screenshot_02" title="Screenshot_02">
+<img width="125" height="250" src="./src/img_3.jpg" alt="Screenshot_03" title="Screenshot_03">
+<img width="125" height="250" src="./src/img_4.jpg" alt="Screenshot_04" title="Screenshot_04">
+<img width="125" height="250" src="./src/img_5.jpg" alt="Screenshot_05" title="Screenshot_05">
+<img width="125" height="250" src="./src/img_12.jpg" alt="Screenshot_012" title="Screenshot_12">
+<img width="125" height="250" src="./src/img_7.jpg" alt="Screenshot_07" title="Screenshot_07">
 <img width="125" height="250" src="./src/chart_atas_light4.jpg" alt="Screenshot_08" title="Screenshot_08">
-<img width="125" height="250" src="./src/chart_atas_dark4.jpg" alt="Screenshot_09" title="Screenshot_09">
-<img width="125" height="250" src="./src/chart_bawah_dark4.jpg" alt="Screenshot_10" title="Screenshot_10">
+<img width="125" height="250" src="./src/img_8.jpg" alt="Screenshot_09" title="Screenshot_09">
+<img width="125" height="250" src="./src/img_9.jpg" alt="Screenshot_10" title="Screenshot_10">
+<img width="250" height="125" src="./src/img_6.jpg" alt="Screenshot_06" title="Screenshot_06">
 <img width="250" height="125" src="./src/ephemeris1.jpg" alt="Screenshot_10a" title="Screenshot_10a">
 <img width="250" height="125" src="./src/ephemeris2.jpg" alt="Screenshot_10b" title="Screenshot_10b">
-<img width="125" height="250" src="./src/imsakiyah1.jpg" alt="Screenshot_11a" title="Screenshot_11a">
-<img width="250" height="125" src="./src/imsakiyah2.jpg" alt="Screenshot_11b" title="Screenshot_11b">
+<img width="125" height="250" src="./src/img_10.jpg" alt="Screenshot_11a" title="Screenshot_11a">
+<img width="125" height="250" src="./src/img_11.jpg" alt="Screenshot_11b" title="Screenshot_11b">
+<img width="125" height="250" src="./src/img_13.jpg" alt="Screenshot_013" title="Screenshot_013">
+<img width="125" height="250" src="./src/img_14.jpg" alt="Screenshot_014" title="Screenshot_014">
+<img width="125" height="250" src="./src/img_15.jpg" alt="Screenshot_015" title="Screenshot_015">
 <img width="125" height="250" src="./src/about_dark5.jpg" alt="Screenshot_11" title="Screenshot_11">
 </div>
 
