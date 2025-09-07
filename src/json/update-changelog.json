@@ -24,7 +24,7 @@
     "- Adaptasi ikon support tema dinamis (Material You)",
     " ",
     "Info:",
-    "- Total koefisien JPL DE405 sebanyak 7.015.038, namun hanya 3.142.296 untuk menghitung data ephemeris Matahari dan Bulan, yakni:\n* Sun (454.806)\n* Moon (2.149.992)\n* dan EMB/Earth-Moon Barycenter (537.498)",
-    "- sedangkan untuk IAARAS EPM2021 Total koefisien sebanyak 4.962.750, namun hanya 2.223.000 koefisien untuk menghitung data ephemeris Matahari & Bulan, yakni:\n* Sun (321.750)\n* Moon (1.521.000)\n* EMB/Earth-Moon Barycenter (380.250)"
+    "- Total koefisien JPL DE405 sebanyak 7.015.038, namun hanya 3.142.296 untuk menghitung data ephemeris Matahari dan Bulan, yakni: * Sun (454.806) * Moon (2.149.992) * dan EMB/Earth-Moon Barycenter (537.498)",
+    "- sedangkan untuk IAARAS EPM2021 Total koefisien sebanyak 4.962.750, namun hanya 2.223.000 koefisien untuk menghitung data ephemeris Matahari & Bulan, yakni: * Sun (321.750) * Moon (1.521.000) * EMB/Earth-Moon Barycenter (380.250)"
   ]
 }
