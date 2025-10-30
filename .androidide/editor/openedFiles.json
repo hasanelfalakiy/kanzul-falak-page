@@ -4,14 +4,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/kanzul-falak-page/src/json/update-changelog.json",
       "selection": {
         "end": {
-          "column": 198,
-          "index": 1877,
-          "line": 27
+          "column": 23,
+          "index": 25,
+          "line": 1
         },
         "start": {
-          "column": 198,
-          "index": 1877,
-          "line": 27
+          "column": 23,
+          "index": 25,
+          "line": 1
         }
       }
     }
