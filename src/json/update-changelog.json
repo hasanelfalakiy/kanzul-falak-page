@@ -1,25 +1,22 @@
 {
-  "latestVersion": "3.7.2",
-  "latestVerisonCode": 12,
+  "latestVersion": "3.9.0",
+  "latestVerisonCode": 13,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "",
     "Penambahan:",
-    "- Algoritma Jean Meeus pada menu Hilal (hisab awal bulan hijriyah)",
+    "- Pengelola file biner JPL DE & EPM IAARAS, pengguna sekarang dapat menginstal file biner dengan sangat mudah (Pengaturan -> Kelola File Biner DE -> Unduh)",
+    "- Algoritma Ad-Durrul Aniq pada menu Hilal (sementara hanya untuk target tahun 1411 H keatas, karena data tabel sanah majmuah belum selesai ditambahkan, lihat pesan pada menu Hilal)",
+    "- Tampilan baru hasil hisab awal bulan, ditampilkan lebih banyak data",
+    "- Fitur zoom in/out pada tampilan hasil hisab awal bulan dengan dicubit (sementara hanya di menu Hilal)",
     " ",
     "Perbaikan:",
-    "- Lama hilal/muktsul hilal rumus taqribi",
+    "- Fix: Lama hilal metode Irsyadul Murid",
+    "- Fix: GST & LST pada real-time halaman depan",
     "- Beberapa perbaikan kecil",
     " ",
     "Perubahan:",
-    "- Upgrade target SDK ke 35 (android 15, minimal android 8/Oreo)",
-    "- Upgrade library lib-vsop87d-elpmpp02 ke versi 12.0.11",
-    "- Upgrade library lib-jeanmeeus ke versi 3.2.0",
-    "- Upgrade versi AGP ke 8.6.0",
-    "- Upgrade versi Gradle ke 8.12.0",
-    " ",
-    "Info:",
-    "- Total koefisien JPL DE405 sebanyak 7.015.038, namun hanya 3.142.296 untuk menghitung data ephemeris Matahari dan Bulan, yakni: * Sun (454.806) * Moon (2.149.992) * dan EMB/Earth-Moon Barycenter (537.498)",
-    "- sedangkan untuk IAARAS EPM2021 Total koefisien sebanyak 4.962.750, namun hanya 2.223.000 koefisien untuk menghitung data ephemeris Matahari & Bulan, yakni: * Sun (321.750) * Moon (1.521.000) * EMB/Earth-Moon Barycenter (380.250)"
+    "- Beberapa perubahan adapatasi fitur baru",
+    " "
   ]
 }

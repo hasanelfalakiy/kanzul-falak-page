@@ -49,6 +49,7 @@ An application that collects several methods of calculating falak (astronomy) fo
 - [x] Model JPL DE405 & IAARAS EPM2021 Planetary theory
 - [x] VSOP87D & ELPMPP02 semi-analitic
 - [x] Jean Meeus from Astronomical Algorithm
+- [x] Ad-Durrul Aniq
 - [x] Irsyadul Murid
 - [x] Calculate the beginning of prayer times
 - [x] Calculate the beginning of the hijri month
