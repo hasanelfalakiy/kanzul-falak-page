@@ -66,6 +66,9 @@ An application that collects several methods of calculating falak (astronomy) fo
 - [x] Calendar Sync
 - [x] Tasbih
 
+## Change log
+[Lihat/See](CHANGELOG.md)
+
 ## Technology used
 
 - 99% Kotlin 1% Java language
