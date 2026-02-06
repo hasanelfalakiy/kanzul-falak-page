@@ -235,3 +235,22 @@ Data tabel pada program Ad-Durrul Aniq masih belum lengkap, yaitu:
 Kekurangan data tabel tersebut akan ditambahkan seiring waktu.
 Untuk target tahun 1411 H keatas InshaAlloh aman.
 
+## v3.10.0 (6 Februari 2026)
+Penambahan (Additions):
+- Button Change Log di pengaturan untuk melihat catatan rilis
+
+Perubahan (Changes):
+- UI baru di menu Waktu Sholat, support zoom in/out
+- Logo halaman depan diganti Nusantara Astronomical Laboratory (NAL)
+
+Perbaikan (Fixes):
+- Perbaikan kecil
+
+NB: Hasil hisab dengan metode Ad-Durrul Aniq untuk target di bawah tahun 1411 H akan tidak sesuai dikarenakan:
+Data tabel pada program Ad-Durrul Aniq masih belum lengkap, yaitu:
+
+1. di tabel jadwal harokat sinin majmuah litholabil ijtima hal 156 dari tahun 420 sampai 1380 belum ditambahkan
+2. di tabel jadwal harokat fi sinin majmuah li harokat syams wal qomar hal 166 dari tahun 0 sampai 1380 belum ditambahkan
+
+Kekurangan data tabel tersebut akan ditambahkan seiring waktu.
+Untuk target tahun 1411 H keatas InshaAlloh aman.

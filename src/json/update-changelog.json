@@ -1,22 +1,18 @@
 {
-  "latestVersion": "3.9.0",
-  "latestVerisonCode": 13,
+  "latestVersion": "3.10.0",
+  "latestVerisonCode": 14,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "",
     "Penambahan:",
-    "- Pengelola file biner JPL DE & EPM IAARAS, pengguna sekarang dapat menginstal file biner dengan sangat mudah (Pengaturan -> Kelola File Biner DE -> Unduh)",
-    "- Algoritma Ad-Durrul Aniq pada menu Hilal (sementara hanya untuk target tahun 1411 H keatas, karena data tabel sanah majmuah belum selesai ditambahkan, lihat pesan pada menu Hilal)",
-    "- Tampilan baru hasil hisab awal bulan, ditampilkan lebih banyak data",
-    "- Fitur zoom in/out pada tampilan hasil hisab awal bulan dengan dicubit (sementara hanya di menu Hilal)",
+    "- Button Change Log di pengaturan untuk melihat catatan rilis",
     " ",
     "Perbaikan:",
-    "- Fix: Lama hilal metode Irsyadul Murid",
-    "- Fix: GST & LST pada real-time halaman depan",
-    "- Beberapa perbaikan kecil",
+    "- Perbaikan kecil",
     " ",
     "Perubahan:",
-    "- Beberapa perubahan adapatasi fitur baru",
+    "- UI baru di menu Waktu Sholat, support zoom in/out",
+	"- Logo halaman depan diganti Nusantara Astronomical Laboratory (NAL)",
     " "
   ]
 }
