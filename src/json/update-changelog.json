@@ -1,18 +1,22 @@
 {
-  "latestVersion": "3.10.0",
+  "latestVersion": "3.11.0",
   "latestVerisonCode": 14,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "",
+    "Warning",
+    "Abaikan notof ini, sedang menguji fitur baru",
+    " ",
+    " ",
     "Penambahan:",
-    "- Button Change Log di pengaturan untuk melihat catatan rilis",
+    "- ",
     " ",
     "Perbaikan:",
-    "- Perbaikan kecil",
+    "- ",
     " ",
     "Perubahan:",
-    "- UI baru di menu Waktu Sholat, support zoom in/out",
-	"- Logo halaman depan diganti Nusantara Astronomical Laboratory (NAL)",
+    "- ",
+	"- ",
     " "
   ]
 }
