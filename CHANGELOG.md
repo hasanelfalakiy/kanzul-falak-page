@@ -7,7 +7,6 @@ Fitur:
 - Grafik visibilitas hilal 1 tahun
 - Waktu sholat
 - Hisab awal bulan Hijriyah
-- Ephemeris matahari dan bulan seperti winhisab
 - dll 
 
 ## v2.0 (12 Januari 2024)
@@ -32,6 +31,7 @@ add:
 - Fitur generate tabel ephemeris
 - Fitur generate tabel jadwal imsakiyah
 - Opsi algoritma di menu waktu sholat
+- Tabel Ephemeris matahari dan bulan seperti winhisab
 
 change:
 
