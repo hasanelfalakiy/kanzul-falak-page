@@ -1,11 +1,11 @@
 {
-  "latestVersion": "3.10.0",
-  "latestVerisonCode": 14,
+  "latestVersion": "3.11.0",
+  "latestVerisonCode": 15,
   "url": "https://github.com/hasanelfalakiy/kanzul-falak-page/releases",
   "releaseNotes": [
     "",
-    "Warning",
-    "Abaikan notif ini, sedang menguji fitur baru",
+    "Warning, perbaikan cepat",
+    "Update rilis terbaru Kanzul Falak\nPerhatian!\nDikarenakan ada bug kritis yang mempengaruhi hasil perhitungan, diharap pengguna Kanzul Falak segera memperbarui ke versi terbaru saat ini v3.11.0.",
     " ",
     " ",
     "Penambahan:",
