@@ -256,10 +256,17 @@ Kekurangan data tabel tersebut akan ditambahkan seiring waktu.
 Untuk target tahun 1411 H keatas InshaAlloh aman.
 
 ## v3.11.0 (6 Juni 2026)
-Update rilis terbaru Kanzul Falak
-
 Perhatian!
 Dikarenakan ada bug kritis yang mempengaruhi hasil perhitungan, diharap pengguna Kanzul Falak segera memperbarui ke versi terbaru saat ini v3.11.0.
 
 nb: Acuan tanggal hijriyah halaman depan diganti basis kriteria IRNU 3-4.6
+
+## v3.12.0 (8 Juni 2026)
+Penambahan:
+- Fitur bagikan sebagai .pdf di menu Ephemeris 
+- Custom pembulatan angka desimal di menu Ephemeris Detail
+- Tambah informasi format angka dan notasi ilmiah di menu Tips
+
+Perbaikan:
+- Tampilan state DeltaT di menu Ephemeris algoritma Jean Meeus
 
