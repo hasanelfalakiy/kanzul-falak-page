@@ -15,25 +15,6 @@ Pastikan koneksi internet stabil dan cepat (file biner rawan rusak) saat mengund
   <img src="./src/img/total-koefisien.png" alt="total-koefisien"/>
 </p>
 
-Total koefisien JPL DE440 sebanyak 12.792.188, namun hanya 5.730.096 untuk menghitung data ephemeris Matahari dan Bulan, 
-yakni:
-> - Sun (829.356)
-> - Moon (3.920.592)
-> - EMB/Earth-Moon Barycentric (980.148)
-
-JPL DE406 belum dihitung<br>
-JPL DE405 sebanyak 7.015.038, namun hanya 3.142.296 untuk menghitung data ephemeris Matahari dan Bulan, 
-yakni:
-> - Sun (454.806)
-> - Moon (2.149.992)
-> - EMB/Earth-Moon Barycentric (537.498)
-
-IAARAS EPM2021 memiliki total koefisien 4.962.750, untuk menghitung data ephemeris Matahari dan Bulan hanya memerlukan koefisien sebanyak 2.223.000, 
-yakni:
-> - Sun (321.750)
-> - Moon (1.521.000)
-> - EMB/Earth-Moon Barycentric (380.250)
-
 ### Cakupan Waktu
 
 Cakupan waktu 
