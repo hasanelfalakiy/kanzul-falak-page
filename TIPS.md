@@ -10,11 +10,10 @@
 Pastikan koneksi internet stabil dan cepat (file biner rawan rusak) saat mengunduh, jika rusak silakan hapus dan ulangi mengunduh file biner. File biner tersebut tidak akan hilang saat melakukan update versi aplikasi, kecuali anda menghapusnya/meng-uninstall aplikasi.
 
 ### Jumlah Koefisien File Biner Ephemeris
-```
+
 <p align="center">
-  <img src="./src/img/total-koefisien.png" alt="total-koefisien"/>
+  <img src="https://raw.githubusercontent.com/hasanelfalakiy/kanzul-falak-page/main/src/img/total-koefisien.png" alt="total-koefisien"/>
 </p>
-```
 
 ### Cakupan Waktu
 
